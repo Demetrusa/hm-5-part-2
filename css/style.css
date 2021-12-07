@@ -1,0 +1,36 @@
+.first-section {
+    background-image:url(../img/world-1638882825384-7564.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 1000px;
+    width: 100%;
+}
+input{
+    width: 250px;
+    height: 35px;
+}
+form{
+    padding-left: 75%;
+    padding-top: 20px;
+
+}
+#error{
+    padding-left: 75%;
+    padding-top: 50px;
+}
+#signButton{
+    margin-left: 80%;
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    z-index: 999;
+}
+h2{
+   padding-left: 83%;
+   padding-top: 20px;
+    color: red;
+    font-size: 30px;
+}
